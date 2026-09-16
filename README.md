@@ -34,7 +34,6 @@ work in progress, following the whole series post by post.
 ## contributors
 
 - [Fanizza Tahir](https://www.linkedin.com/in/fttahir/)
-- [Muhammad Rayan Khan](https://www.linkedin.com/in/muhammad-rayan-30604b252/)
 
 ## license
 
